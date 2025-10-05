@@ -216,10 +216,7 @@ spark-submit spark_etl.py s3://.../input s3://.../output
 
 ## 👨‍💻 Author
 
-**Bhanu Teja Giddaluru**\
-Data & AI Engineer \| AWS \| Apache Spark \| GenAI \| ML\
-[LinkedIn](https://www.linkedin.com) \| [GitHub](https://github.com)
-
+**Bhanu G**\
 ------------------------------------------------------------------------
 
 ### 📄 License
