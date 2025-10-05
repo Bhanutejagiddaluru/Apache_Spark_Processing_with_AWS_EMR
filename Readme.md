@@ -7,6 +7,7 @@ using **Apache Spark** on **AWS Elastic MapReduce (EMR)**.\
 It walks through the complete workflow --- from setting up
 infrastructure to automating Spark jobs in the cloud.
 
+[Naruto](Apche.gif)
 This project is designed for data engineers, analysts, and ML
 practitioners who want to scale data pipelines beyond local
 environments.
