@@ -1,0 +1,1 @@
+["spark-submit","s3://<your-bucket>/spark-emr-demo/code/spark_etl.py","--input","s3://<your-bucket>/spark-emr-demo/input/nyc_taxi_small.csv","--output","s3://<your-bucket>/spark-emr-demo/output/nyc_taxi_step"]
