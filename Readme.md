@@ -216,9 +216,6 @@ spark-submit spark_etl.py s3://.../input s3://.../output
 
 ## 👨‍💻 Author
 
-**Bhanu G**\
+**Bhanu G**
 ------------------------------------------------------------------------
 
-### 📄 License
-
-This project is open-sourced under the MIT License.
