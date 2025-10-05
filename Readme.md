@@ -7,7 +7,7 @@ using **Apache Spark** on **AWS Elastic MapReduce (EMR)**.\
 It walks through the complete workflow --- from setting up
 infrastructure to automating Spark jobs in the cloud.
 
-[Apache spark processing with AWS EMR](Apache_spark_processing_with_AWS_EMR.gif)
+![Apache spark processing with AWS EMR](Apache_spark_processing_with_AWS_EMR.gif)
 This project is designed for data engineers, analysts, and ML
 practitioners who want to scale data pipelines beyond local
 environments.
