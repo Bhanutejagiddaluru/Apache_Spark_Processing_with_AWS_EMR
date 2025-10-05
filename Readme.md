@@ -1,5 +1,4 @@
 # Apache Spark Processing with AWS EMR
-# Apache Spark Processing with AWS EMR \| Data Engineering Project
 
 ## 📘 Overview
 
